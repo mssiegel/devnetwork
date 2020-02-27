@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://moshe123:moshe123@cluster0-nr9ux.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "bed4e68dcfdf95b17542",
+  "githubSecret": "89733a5e52839547907d317a7bc23ab5b7443b7d"
+}
