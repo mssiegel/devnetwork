@@ -1,6 +1,16 @@
 # DevNetwork
-Dev Network was built using the MERN Stack of MongoDB, Express, React, Node, and Redux.
 
-This is a social networking website for programmers to stay connected with friends and coworkers.
-At DevNetwork, you start by creating a profile of your job experiences and skills. Afterwards, create your own posts or read other people's posts and comment on them. 
+DevNetwork is a social networking website for programmers to stay connected with friends and coworkers.\
+Tech stack: **React, Redux, Node, Express, MondoDB**
 
+## User experience
+
+Users start by creating a profile of their job experiences and skills. Afterwards, they can create posts or comment on their friends' postings.
+
+### Login page
+
+![DevNetwork Homepage](./images/homepage.png)
+
+### Posts and comments
+
+![DevNetwork Posts](./images/posts.png)
